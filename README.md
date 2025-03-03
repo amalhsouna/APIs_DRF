@@ -1,2 +1,2 @@
 # APIs_DRF
-Creat api with DRF(django Rest Framwork)
+Create api with DRF(django Rest Framwork)
